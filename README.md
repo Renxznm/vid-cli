@@ -9,8 +9,7 @@ A blazing fast, lightweight CLI YouTube player using `yt-dlp`, `fzf`, and `mpv`.
 ---
 
 ### 🎥 Demo
-![vid-cli demo](vid-cli-demo.mp4) 
-*(Note: Upload video lu ke repo, dan ganti `demo.mp4` dengan nama file video lu).*
+*(Upload video lu ke repo, dan link di sini)*
 
 ---
 
@@ -25,17 +24,17 @@ A blazing fast, lightweight CLI YouTube player using `yt-dlp`, `fzf`, and `mpv`.
 
 ### 1. Arch Linux (AUR)
 The easiest way to install on Arch-based distributions:
+
 ```bash
-yay -S vid-cli-git```
+yay -S vid-cli-git
 
 
-### 2. Manual Install (Git Clone)
+2. Manual Install (Git Clone)
 
 For other distributions or manual installation:
-```
 Bash
+
 git clone [https://github.com/Renxznm/vid-cli.git](https://github.com/Renxznm/vid-cli.git)
 cd vid-cli
 sudo cp vid-cli /usr/bin/vid-cli
 sudo chmod +x /usr/bin/vid-cli
-```
