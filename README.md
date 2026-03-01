@@ -32,7 +32,7 @@ yay -S vid-cli-git
 ### 2. Manual Install (Git Clone)
 For other distributions or manual installation:
 ```bash
-git clone [https://github.com/Renxznm/vid-cli.git](https://github.com/Renxznm/vid-cli.git)
+git clone https://github.com/Renxznm/vid-cli.git
 cd vid-cli
 sudo cp vid-cli /usr/bin/vid-cli
 sudo chmod +x /usr/bin/vid-cli
