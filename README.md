@@ -9,7 +9,7 @@ A blazing fast, lightweight CLI YouTube player using `yt-dlp`, `fzf`, and `mpv`.
 ---
 
 ### 🎥 Demo
-![vid-cli demo](vid-cli-demo.webm) 
+<video src="vid-cli-demo.mp4" width="100%" controls></video>
 
 ---
 
