@@ -22,7 +22,7 @@ check_dependencies() {
 
 # Modular fzf
 launcher() {
-    fzf --prompt="$1" --border=rounded --layout=reverse --height="$2"
+    fzf --prompt="$1" --border=rounded --layout=reverse --height="$2" --no-preview
 }
 
 # Display help menu
