@@ -1,3 +1,11 @@
+# Note⚠️
+```
+This Repo is Archive because it didn't maintain because my hardware is broken, and this kinda not that good
+```
+
+
+
+
 # vid-cli 🎬
 
 Watching YouTube on a browser is too heavy for my Celeron N4020, so I wrote this minimal Bash script as a workaround. 
