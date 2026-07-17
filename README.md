@@ -1,6 +1,9 @@
 # Note⚠️
 ```
-This Repo is Archive because it didn't maintain because my hardware is broken, and this kinda not that good
+This Repo is Archive
+ because it didn't maintain
+ because my hardware is broken, 
+ and this kinda not that good
 ```
 
 
